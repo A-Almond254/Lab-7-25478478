@@ -82,7 +82,7 @@ game is called "hollow knight". It is very fun and I really like playing it as i
 made. It helps me to unwind at the end of the day.</p>
 <h3>Here is an image of the player character:</h3>
 
-<img src="Hollow knight.png" alt="Mr hollow knight" width="260" height="333">
+<img src="Hollow Knight.png" alt="Mr hollow knight" width="260" height="333">
 
 <p>He is very cool and awesome.</p>
 
