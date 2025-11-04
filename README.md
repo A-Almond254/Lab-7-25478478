@@ -9,7 +9,6 @@ HTML page for lab 7 of as4012
 <meta chardet="UTF-8">
 <!-- Special Characters commenting -->
 <link rel="stylesheet" href="Lab 6 css.css">
-<title>Hobby Website</title>
 </head>
 <body>
 
@@ -95,82 +94,3 @@ made. It helps me to unwind at the end of the day.</p>
 
 </body>
 </html>
-
-body {
-  background-color: powderblue;
-}
-h1 {
-  color: yellow;
-}
-h2 {
-  color: blue;
-}
-
-h2 {
-  border: 2px solid yellow;
-}
-
-h2 {
-  border: 3px solid yellow;
-  padding: 30px;
-}
-
-ul {
-  color: black;
-}
-
-ol {
-  color: black;
-}
-
-p {
-  margin: 20px;
-}
-
-h3 {
-	margin: 20px;
-}
-
-a {
-  margin: 50px;
-}
-
-header {
-  background-color: blue;
-  padding: 5px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
-}
-
-footer {
-  background-color: blue;
-  padding: 10px;
-  text-align: center;
-  color: white;
-}
-
-table, th, td {
-  border: 1px solid black;
-}
-
-th {
-	background-color: blue;
-	color: yellow;
-}
-
-td {
-	text-align: center;
-	background-color: white;
-}
-
-table {
-	padding: 5px;
-	margin: 70px;
-}
-
-img {
-  display: block;
-  margin: auto;
-}
-
