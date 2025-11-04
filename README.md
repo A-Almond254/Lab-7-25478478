@@ -8,7 +8,7 @@
 <body>
 
 <header>
-*My hobbies*
+<h1>My hobbies</h1>
 </header>
 
 <h3>My name is Mark and this is a page about my hobbies.</h3>
