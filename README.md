@@ -1,8 +1,3 @@
-# Lab-7-25478478
-HTML page for lab 7 of as4012
-
-<!DOCTYPE html>
-
 <html lang="en">
 
 <head>
@@ -13,7 +8,7 @@ HTML page for lab 7 of as4012
 <body>
 
 <header>
-<h1>My hobbies</h1>
+*My hobbies*
 </header>
 
 <h3>My name is Mark and this is a page about my hobbies.</h3>
